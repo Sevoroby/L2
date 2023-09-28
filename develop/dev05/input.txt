@@ -1,0 +1,5 @@
+Mary:Class 1
+Tom:Class 2
+Kane: Class 1
+Anna: Class 3
+John:Class 4
